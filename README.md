@@ -1,4 +1,4 @@
 # LOGIN-PAGE
 
-This modern login page, built using **HTML and CSS**, features a sleek, glassmorphic design set against a **vibrant cityscape background**. The interface combines elegance and functionality with smooth gradients, rounded input fields, and integrated social login options.
+💻 A modern <bold>HTML & CSS</bold> login page with a stylish glassmorphic interface set against a glowing city skyline 🌃. Smooth gradients, rounded fields, and social login buttons create a polished, user-friendly experience.
 
